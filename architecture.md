@@ -293,10 +293,3 @@ Esta checklist traduz a tarefa de preparação em resultados verificáveis; não
 4. Refinar as entidades e os contratos de API a partir dos requisitos.
 5. Escolher e configurar as ferramentas de testes e de IA.
 6. Documentar o ambiente de alojamento e a estratégia de integração e entrega contínuas.
-
-## 15. Referências
-
-- Enunciado do projeto de Engenharia de Software, 2026/27: `SE_Project-1.pdf`.
-- Tarefa atribuída à equipa: documentação da arquitetura, justificação das tecnologias, inicialização do repositório e preparação da ferramenta de IA.
-
-As escolhas identificadas como propostas neste documento são sugestões de implementação e devem ser confirmadas pela equipa.
